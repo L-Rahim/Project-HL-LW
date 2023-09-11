@@ -1,7 +1,6 @@
 *
 
 
-
 h1{
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -10,10 +9,11 @@ h1{
 text-align: center;   
 }
 
-div{
-    background-color: blueviolet;
+body{
+    background-color: rgb(13, 72, 184);
 }
 
+button{margin-left: 600px;}
 
 div{text-align: center;}
 
